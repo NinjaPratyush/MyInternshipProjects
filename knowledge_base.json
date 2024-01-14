@@ -1,0 +1,16 @@
+{
+  "questions": [
+    {
+      "question": "Hello",
+      "answer": "Hey there"
+    },
+    {
+      "question": "Do you know something about cars?",
+      "answer": "A car, or an automobile, is a motor vehicle with wheels. Most definitions of cars state that they run primarily on roads, seat one to eight people, have four wheels, and mainly transport people, not cargo"
+    },
+    {
+      "question": "When was the first car invented?",
+      "answer": "On January 29, 1886, Carl Benz applied for a patent for his \u201cvehicle powered by a gas engine.\u201d The patent \u2013 number 37435 \u2013 may be regarded as the birth certificate of the automobile"
+    }
+  ]
+}
